@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Pushbullet
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=chlffgpmiacpedhhbkiomidkjlcfhogd
+Icon=chrome-chlffgpmiacpedhhbkiomidkjlcfhogd-Default
+NoDisplay=true
+StartupWMClass=crx_chlffgpmiacpedhhbkiomidkjlcfhogd
+OnlyShowIn=Old;

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=JetBrains IDE Support
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=hmhgeddbohgjknpmjagkdomcpobmllji
+Icon=chrome-hmhgeddbohgjknpmjagkdomcpobmllji-Default
+NoDisplay=true
+StartupWMClass=crx_hmhgeddbohgjknpmjagkdomcpobmllji
+OnlyShowIn=Old;
