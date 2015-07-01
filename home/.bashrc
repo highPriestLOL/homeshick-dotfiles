@@ -1,0 +1,1 @@
+/home/anthony/.homesick/repos/dotfiles/home/.bashrc
